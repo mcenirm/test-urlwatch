@@ -29,8 +29,8 @@ $ ./test-urlwatch
 ---------------------------------------------------------------------------
 CHANGED: ATCF master list (http://ftp.nhc.noaa.gov/atcf/index/master_list.txt)
 ---------------------------------------------------------------------------
---- @	Tue, 30 May 2017 16:47:10 -0500
-+++ @	Thu, 01 Jun 2017 16:50:35 -0500
+--- @	Mon, 29 May 2017 16:47:10 -0500
++++ @	Thu, 01 Jun 2017 16:53:19 -0500
 @@ -1,3 +1,4 @@
 +AL012017, ARLENE
  AL052015, ERIKA
@@ -55,9 +55,4 @@ CHANGED: ATCF master list (http://ftp.nhc.noaa.gov/atcf/index/master_list.txt)
 
 ---------------------------------------------------------------------------
 
-
--- 
-urlwatch 2.6, Copyright 2008-2016 Thomas Perl
-Website: http://thp.io/2008/urlwatch/
-watched 2 URLs in 0 seconds
 ```
