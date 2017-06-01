@@ -1,0 +1,10 @@
+#!/bin/bash
+
+opts=(
+    --urls    urls.yaml
+    --config  urlwatch.yaml
+    --hooks   hooks.py
+    --cache   cache.db
+)
+
+urlwatch "${opts[@]}" "$@"
